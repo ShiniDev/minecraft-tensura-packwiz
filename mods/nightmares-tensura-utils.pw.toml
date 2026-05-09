@@ -1,0 +1,13 @@
+name = "Nightmare's Tensura Utils"
+filename = "nightmareutils-0.1.0 (2).jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29944121c147523540ac660905eac92e75c63833"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8050913
+project-id = 1525266

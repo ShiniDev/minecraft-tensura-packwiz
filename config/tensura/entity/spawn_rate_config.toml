@@ -1,0 +1,82 @@
+[SpecialVariant]
+	#One of how many chances for an otherworlder to spawn as Shizu.
+	shizuChance = 15
+	#One of how many chances for an otherworlder to spawn as Hinata Sakaguchi.
+	hinataChance = 25
+	#One of how many chances for a hell caterpillar to spawn as a gehenna caterpillar.
+	gehennaCaterpillarChance = 15
+	#One of how many chances for a hell caterpillar cocoon to mutate to a gehenna moth.
+	gehennaCocoonChance = 40
+	#One of how many chances for a hell moth to spawn as or evolve to a gehenna moth.
+	gehennaMothChance = 15
+	#One of how many chances for a hound dog to have a snake tail.
+	houndDogSnakeChance = 15
+	#One of how many chances for an orc to be an orc lord.
+	orcLordChance = 100
+	#One of how many chances for an orc to be a royal orc.
+	orcRoyalChance = 20
+	#One of how many chances for a Royal Orc to have Self-Regeneration.
+	orcRoyalLordChance = 5
+	#One of how many chances for a Direwolf to be an Alpha.
+	alphaWolf = 9
+	#One of how many chances for a Tempest Wolf to have the Star birthmark.
+	starBirthmark = 12
+	#The percentage chance for a direwolf pack to be evolved
+	evolvedPack = 30
+	#The percentage chance for a direwolf pack to be Elemental Fang based on biomes
+	elementalFangPack = 40
+	#The percentage chance for a direwolf pack to be Tempest Wolves
+	tempestWolfPack = 8
+	#One of how many chances for a slime to spawn as Metal Slime.
+	metalSlimeChance = 200
+	#One of how many chances for a slime to spawn as Supermassive Slime.
+	supermassiveSlimeChance = 300
+	#One of how many chances for a medium spirit spawned in Ancient Forest to spawn as a greater spirit.
+	greaterSpiritChance = 200
+
+#Spawn probability for mobs (1 in X chance). First value is Day, Second is Night.
+#Examples: 1=100%, 5=20%, 10=10%. 0=disabled.
+[SpawnChance]
+	otherworlder = [15, 15]
+	aquaFrog = [10, 8]
+	archDaemon = [35, 35]
+	armorsaurus = [4, 2]
+	armyWasp = [11, 8]
+	barghest = [7, 5]
+	basilisk = [10, 7]
+	beastGnome = [10, 8]
+	blackSpider = [6, 5]
+	bladeTiger = [6, 5]
+	cattledeer = [6, 4]
+	direwolf = [2, 2]
+	dragonPeacock = [8, 6]
+	evilCentipede = [8, 8]
+	featheredSerpent = [10, 8]
+	giantAnt = [6, 6]
+	giantBat = [0, 3]
+	giantBear = [6, 6]
+	giantCod = [6, 6]
+	giantSalmon = [6, 6]
+	greaterDaemon = [20, 20]
+	hellCaterpillar = [8, 6]
+	hellMoth = [10, 9]
+	hornedBear = [8, 8]
+	hornedRabbit = [7, 5]
+	houndDog = [10, 8]
+	hoverLizard = [6, 5]
+	knightSpider = [7, 6]
+	landfish = [7, 5]
+	leechLizard = [8, 6]
+	lesserDaemon = [10, 10]
+	megalodon = [15, 15]
+	oneEyedOwl = [10, 7]
+	orc = [2, 2]
+	pegasus = [15, 12]
+	phantaspore = [8, 7]
+	salamander = [10, 8]
+	sissie = [9, 9]
+	slime = [2, 2]
+	spearToro = [6, 6]
+	unicorn = [15, 12]
+	tempestSerpent = [8, 8]
+	wingedCat = [10, 8]

@@ -1,0 +1,13 @@
+name = "Tensura: Mysticism - Tensura: Reincarnated"
+filename = "mysticism-neoforge-2.0.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "70b84072931f3ad92ac409bc68998c4f24a6c12f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7980188
+project-id = 1148149

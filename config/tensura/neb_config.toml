@@ -1,0 +1,6 @@
+#One of how many chances for an otherworlder to spawn as Luminous.
+luminousChance = 25
+#One of how many chances for an otherworlder to spawn as Rimuru.
+rimuruChance = 15
+#One of how many chances for an otherworlder to spawn as Carrion.
+carrionChance = 20
