@@ -1,13 +1,13 @@
 name = "Mob Battle Mod (Forge/NeoForge)"
-filename = "mobbattle-1.21.1-2.7.0.b-neoforge.jar"
+filename = "mobbattle-1.21.1-2.7.1-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "0d33b6026317d4fcc218c28c6da3e6ab73dcdbbe"
+hash = "de4610a45a25133f13b0ff052bec0514baa8af10"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 7268415
+file-id = 8065542
 project-id = 268746

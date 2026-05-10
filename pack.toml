@@ -1,11 +1,12 @@
-name = "Tensura: Reincarnated NixOS"
+name = "Tensura-Nix"
+author = "ShiniDev"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "9bce9a8aa8182a29d813c7c2c033fbaf6df01b56d39c3e0dcb49a0c0de2e43e3"
+hash = "466a2c457a48103c3c03321fa154e64a1893015c74cc15151198a64fa338ffa8"
 
 [versions]
 minecraft = "1.21.1"

@@ -1,7 +1,0 @@
-[
-  {"version":1},
-  {"ingredient":{"id":"tensura:silver_coin"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"tensura:silver_chestplate"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:paper"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:map"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]
