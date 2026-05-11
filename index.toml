@@ -838,3 +838,11 @@ metafile = true
 file = "mods/yungs-cave-biomes.pw.toml"
 hash = "895288a3b51192f27cbf3e7e7ebfefd0d31e5660157864a4da40828d5c1dac05"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "956e82aa7582db213adfd683b7bb28c8625c72d915825d43fb93c1c8180d6cb3"
+
+[[files]]
+file = "servers.dat"
+hash = "6ce787b517b9767a2fe14757971a485b4ab7671834a89aafeab74ba5f19d4edc"
